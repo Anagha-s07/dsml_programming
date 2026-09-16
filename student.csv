@@ -1,0 +1,8 @@
+s_hours,attendence,a_score,result
+2,60,50,fail
+3,65,55,fail
+4,70,60,pass
+5,75,65,pass
+6,80,70,pass
+1,50,40,fail
+7,90,80,pass

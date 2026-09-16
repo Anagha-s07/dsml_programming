@@ -1,0 +1,15 @@
+import numpy as np
+a=input("enter first element:")
+b=input("enter second element:")
+c=input("enter third element:")
+d=input("enter fourth element:")
+e=input("enter fifth element:")
+f=input("enter sixth element:")
+g=input("enter seventh element:")
+h=input("enter eighth element:")
+i=input("enter ninth element:")
+arr=np.array([[int (a),int (b),int (c)],[int (d),int (e),int (f)],[int (g),int (h),int (i)]])
+print("Array:",arr)
+t=np.matrix.trace(arr)
+print("Trace:",t)
+
